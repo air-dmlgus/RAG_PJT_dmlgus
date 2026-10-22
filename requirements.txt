@@ -1,0 +1,7 @@
+chromadb>=1.0,<2
+langgraph>=1,<2
+openai>=2,<3
+streamlit>=1.40,<2
+python-dotenv>=1,<2
+requests>=2.32,<3
+langchain-text-splitters>=1,<2
