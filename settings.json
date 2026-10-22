@@ -1,0 +1,9 @@
+{
+  "chunk_size": 900,
+  "chunk_overlap": 180,
+  "top_k": 5,
+  "fetch_k": 20,
+  "mmr_lambda": 0.65,
+  "retries": 3,
+  "request_interval": 1.1
+}
